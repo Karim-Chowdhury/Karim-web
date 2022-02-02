@@ -52,11 +52,15 @@ section{
 .ex{
     background-image: url(/images/exp-bg.png);
     background-repeat: no-repeat;
+    size: 20px;
+    
 }
+
 #full-stack{
     border-left: 5px solid;
     border-image: linear-gradient(blue ,tomato);
     border-image-slice: 2;
+    
 }
 #baby-web{
     border-left: 5px solid;
@@ -65,4 +69,5 @@ section{
 }
 footer p{
     text-align: center;
+    color: brown;
 }
